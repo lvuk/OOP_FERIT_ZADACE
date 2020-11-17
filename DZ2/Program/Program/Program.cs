@@ -10,8 +10,6 @@ namespace Program
 	class Program
 	{
 
-
-		
 		public static void RunDz1()
         {
 			Episode ep1, ep2;

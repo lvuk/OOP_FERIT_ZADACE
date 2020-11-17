@@ -10,7 +10,7 @@ namespace Description1
         public TimeSpan epTime { get; private set; }
         public string epName { get; private set; }
 
-        public Description(int episodeNumber,TimeSpan epTime, string epName)
+        public Description(int episodeNumber, TimeSpan epTime, string epName)
         {
             this.episodeNumber = episodeNumber;
             this.epTime = epTime;
@@ -23,4 +23,3 @@ namespace Description1
         }
     }
 }
-

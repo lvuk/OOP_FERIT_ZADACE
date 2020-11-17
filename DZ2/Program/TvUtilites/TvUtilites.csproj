@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Description\Description.csproj" />
     <ProjectReference Include="..\Episode\Episode.csproj" />
-    <ProjectReference Include="..\TvUtilities\Description.csproj" />
   </ItemGroup>
 
 </Project>
