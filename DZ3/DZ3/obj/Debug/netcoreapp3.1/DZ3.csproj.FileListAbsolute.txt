@@ -1,0 +1,13 @@
+D:\UNIV\OOP_FERIT_ZADACE\DZ3\DZ3\bin\Debug\netcoreapp3.1\DZ3.exe
+D:\UNIV\OOP_FERIT_ZADACE\DZ3\DZ3\bin\Debug\netcoreapp3.1\DZ3.deps.json
+D:\UNIV\OOP_FERIT_ZADACE\DZ3\DZ3\bin\Debug\netcoreapp3.1\DZ3.runtimeconfig.json
+D:\UNIV\OOP_FERIT_ZADACE\DZ3\DZ3\bin\Debug\netcoreapp3.1\DZ3.runtimeconfig.dev.json
+D:\UNIV\OOP_FERIT_ZADACE\DZ3\DZ3\bin\Debug\netcoreapp3.1\DZ3.dll
+D:\UNIV\OOP_FERIT_ZADACE\DZ3\DZ3\bin\Debug\netcoreapp3.1\DZ3.pdb
+D:\UNIV\OOP_FERIT_ZADACE\DZ3\DZ3\obj\Debug\netcoreapp3.1\DZ3.csprojAssemblyReference.cache
+D:\UNIV\OOP_FERIT_ZADACE\DZ3\DZ3\obj\Debug\netcoreapp3.1\DZ3.AssemblyInfoInputs.cache
+D:\UNIV\OOP_FERIT_ZADACE\DZ3\DZ3\obj\Debug\netcoreapp3.1\DZ3.AssemblyInfo.cs
+D:\UNIV\OOP_FERIT_ZADACE\DZ3\DZ3\obj\Debug\netcoreapp3.1\DZ3.csproj.CoreCompileInputs.cache
+D:\UNIV\OOP_FERIT_ZADACE\DZ3\DZ3\obj\Debug\netcoreapp3.1\DZ3.dll
+D:\UNIV\OOP_FERIT_ZADACE\DZ3\DZ3\obj\Debug\netcoreapp3.1\DZ3.pdb
+D:\UNIV\OOP_FERIT_ZADACE\DZ3\DZ3\obj\Debug\netcoreapp3.1\DZ3.genruntimeconfig.cache
